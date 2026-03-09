@@ -1,4 +1,11 @@
 okk 123
 
+<<<<<<< Updated upstream
 hiijiii
 kkkjjj
+=======
+oj kii
+
+
+kkkk ji
+>>>>>>> Stashed changes
